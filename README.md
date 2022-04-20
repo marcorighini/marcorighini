@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <br>
-  <samp>Hello there. I'm Marco Righini.<br> I'm an Android Engineer Engineer.<br></samp>
+  <samp>Hello there. I'm Marco Righini.<br> I'm an Android Principal Engineer.<br></samp>
   <br>
     <br>
   <a href="mailto:mr@marcorighini.net">
