@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <br>
-  <samp>Hello there. I'm Marco Righini.<br> I'm a Senior Android Engineer.<br></samp>
+  <samp>Hello there. I'm Marco Righini.<br> I'm an Android Engineer Engineer.<br></samp>
   <br>
     <br>
   <a href="mailto:mr@marcorighini.net">
@@ -12,7 +12,7 @@
     <img align="center" alt="Marco Righini - Email Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="http://stackoverflow.com/users/story/5661456">
+  <a href="https://stackoverflow.com/users/5661456/marco-righini">
     <img align="center" alt="Marco Righini - Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
   &nbsp;&nbsp;
